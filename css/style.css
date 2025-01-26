@@ -1375,7 +1375,7 @@ border-radius: 6px;
 {
     .header-content
     {
-        height: 750px;
+        height: auto;
     }
     .navbar-toggler
     {
